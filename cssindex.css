@@ -1,0 +1,49 @@
+
+/*CSS DO EXEMPLO index20*/
+
+body{
+
+    background-color:bisque;
+}
+
+
+h1{
+
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 28px;
+
+
+}
+
+p{
+    text-align: justify;
+    color: blue;
+    font-family: times;
+    font-size: 20px ;
+    border-style: dotted;
+    border-width:10px ;
+    border-color:blueviolet ;
+    border-radius: 15px;
+}
+
+#para1{
+    text-align: center;
+    color: red;
+    font-family: Arial;
+    border-style:double;
+    border-width:10px ;
+    border-color:blueviolet ;
+    border-radius: 5px;
+}
+
+#para2{
+    text-align: left;
+    color: green;
+    font-family:sans-serif;
+    border-style:groove;
+    border-width:10px ;
+    border-color:blueviolet ;
+    border-radius: 5px;
+}
+
